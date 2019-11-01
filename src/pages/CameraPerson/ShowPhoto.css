@@ -1,0 +1,10 @@
+.showImg{
+    width:500rpx;
+    height: 800rpx;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
