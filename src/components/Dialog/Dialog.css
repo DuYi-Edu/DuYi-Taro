@@ -1,0 +1,10 @@
+.index{
+    position: absolute;
+    z-index: 99;
+    left: 200rpx;
+    top:200rpx;
+    width: 300rpx;
+    height: 200rpx;
+    border: 2rpx solid #A0A0A0;
+    background-color: #f8f8f8;
+}
