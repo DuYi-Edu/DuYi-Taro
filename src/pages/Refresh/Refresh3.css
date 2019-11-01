@@ -1,0 +1,28 @@
+.scroll-style{
+    width: 100%;
+    height:400px;
+    background-color: teal;
+}
+.sv{
+    width: 100%;
+    height: 400px;
+}
+.inner{
+    width:100%;
+    height:800px;
+}
+
+.scroll-x-sty{
+    width: 100%;
+    height: 70px;
+}
+
+.scroll-x-itemlist{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+}
+.scroll-x-itemlist Navigator{
+    margin: 5px 10px;
+}
