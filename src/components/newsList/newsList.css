@@ -1,0 +1,12 @@
+.newsList{
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10rpx;
+}
+
+.newsImg{
+    width: 100%;
+    height: 240rpx;
+}
