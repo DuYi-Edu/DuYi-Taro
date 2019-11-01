@@ -1,0 +1,15 @@
+.copy{
+    color: green;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.result{
+    font-size:30px;
+    color:gray
+}
+
+.result View{
+    height: 35px;
+    margin: 5px 0;
+}

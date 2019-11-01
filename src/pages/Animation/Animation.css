@@ -1,0 +1,34 @@
+
+.animate-view{
+    width: 240rpx;
+    height: 240rpx;
+    border:4rpx solid red;
+}
+
+.animation{
+    margin-top:20rpx;
+    padding:10rpx 30rpx;
+}
+.dis-flex{
+    display: flex;
+}
+.flex1{
+    flex:1;
+    text-align: center;
+}
+.flex3{
+    flex:3;
+    text-align: center;
+}
+.iconfont{
+    font-size:28rpx;
+    font-style:normal;
+}
+.switch-icon:before{
+    content:'\e8c8'
+}
+
+.img{
+    width:40px;
+    height: 40px;
+}

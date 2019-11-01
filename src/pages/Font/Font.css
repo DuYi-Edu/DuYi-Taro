@@ -1,0 +1,23 @@
+.title{
+    width: 100%;
+    height: 80rpx;
+    line-height: 80rpx;
+    background-color: wheat;
+    font-weight: bold;
+}
+.page-body-info {
+    align-items: center;
+    padding: 200rpx 0;
+    text-align: center;
+  }
+  
+  .font-loaded {
+    font-family: "Bitstream Vera Serif Bold";
+  }
+  
+  .display-area {
+    font-size: 40rpx;
+    display: flex;
+    justify-content: center;
+  }
+  
