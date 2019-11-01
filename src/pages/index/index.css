@@ -1,0 +1,14 @@
+.index{
+    width: 100%;
+    height: 800rpx;
+    background-color: antiquewhite;
+}
+
+.index > .innerView {
+
+}
+
+.outterText  .innerText{
+    color: blue;
+}
+
