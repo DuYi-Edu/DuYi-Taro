@@ -1,0 +1,75 @@
+/* pages/yao/yao.wxss *//* pages/testting/shaky/shaky.wxss */
+page{
+    background-color: greenyellow;
+    height: 100%;
+  }
+  .panel_root{
+    background-color: red;
+    height: 100%;
+  }
+  .view_top{
+    position: absolute;
+    display: block;
+    height: 40%;
+    width: 100%;
+    background-color: #2d3132;
+    text-align: center;
+  }
+  .view_bottom{
+    position: absolute;
+    top:40%;
+    display: block;
+    height: 60%;
+    width: 100%;
+    background-color: #2d3132;
+    text-align: center;
+  }
+  .img_top{
+    position: absolute;
+    bottom: 0;
+    width: 8rem;
+    height: 7rem;
+    margin-bottom: -3.5rem;
+    margin-left: -4rem;
+    clip:rect(0px,8rem,3.5rem,0px);
+  }
+  .img_bottom{
+    position: absolute;
+    top:0;
+    width: 8rem;
+    height: 7rem;
+    margin-top: -3.5rem;
+    margin-left: -4rem;
+    clip:rect(3.5rem,8rem,200px,0px);
+  }
+  .panel_result{
+    margin: 2rem;
+    padding: 1rem;
+    background-color: white;
+  }
+  .btn_test{
+    position: absolute;
+    bottom: 0;
+    margin: 2rem;
+  }
+  
+  .panel_bottom{
+    width:100%;
+    position: absolute;
+    top:5rem;
+    color: white;
+  }
+  
+  .img_loading{
+    width: 1rem;
+    height: 1rem;
+  }
+  
+  .panel_result{
+    color: black;
+    margin: 1rem 2rem;
+    border-radius:.3rem;
+    padding: 1rem;
+  }
+  
+  
