@@ -1,0 +1,25 @@
+.font-red{
+    color:red;
+}
+
+.movable{
+    height: 400rpx;
+    width: 100%;
+    background: white;
+}
+
+.movableView{
+    width:100rpx;
+    height: 100rpx;
+    background-color: red;
+}
+
+.movableView Image{
+    width: 100%;
+    height: 100%;
+}
+
+.img{
+    width: 200rpx;
+    height: 200rpx;
+}

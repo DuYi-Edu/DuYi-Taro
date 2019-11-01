@@ -1,0 +1,44 @@
+.borad{
+    overflow: hidden;
+    border-bottom:2rpx solid #26A5FF;
+}
+.cell{
+    display:flex;
+    margin: 20rpx;
+}
+.cell-db{
+    flex:1;
+    position: relative;
+}
+.record-style{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 120rpx;
+    width:100%
+}
+.btn-style{
+    margin:0 30rpx;
+}
+
+.center{
+    position: fixed;
+    left:250rpx;
+    top:200rpx
+}
+
+.speak-style{
+    position: relative;
+    height: 240rpx;
+    width: 240rpx;
+    border-radius: 20rpx;
+    margin: 50% auto;
+    background:#26a5ff;
+}
+.sound-style{
+    position: absolute;
+    width:74rpx;
+    height: 150rpx;
+    margin-top: 45rpx;
+    margin-left: 83rpx;
+}
