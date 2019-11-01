@@ -1,0 +1,64 @@
+.icon-image{
+    width: 44rpx;
+    height: 42rpx;
+}
+.amountBg{
+    display: flex;
+    flex-direction: row;
+    height: 200rpx;
+    background-color: #5495e6;
+    align-items: center;
+}
+.img{
+    overflow: hidden;
+    display: block;
+    width: 100rpx;
+    height: 100rpx;
+    margin-left:40rpx;
+    border-radius: 50%;
+}
+.account{
+    width:70%;
+    color:#fff;
+    margin-left:20rpx;
+    align-items: center;
+}
+.nick-name{
+    font-family: 'Microsoft Yahei';
+    font-size:32rpx;
+}
+.address{
+    font-size:26rpx;
+}
+.content{
+    background-color:#f4f4f4;
+    height: 1000rpx;
+}
+.item{
+    display:flex;
+    flex-direction: row;
+    background-color: #fff;
+    height: 100rpx;
+    align-items: center;
+}
+.icon{
+    width:100rpx;
+    text-align: center;
+}
+.itemName{
+    width:40%;
+    font-size:28rpx;
+    font-weight:bold;
+}
+.line{
+    height: 20rpx;
+}
+.hr{
+    height: 2rpx;
+    background-color: #ccc;
+    opacity: 0.2;
+}
+.right{
+    width: 40%;
+    text-align: right;
+}
