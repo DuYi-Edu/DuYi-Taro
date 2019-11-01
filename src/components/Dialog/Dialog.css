@@ -1,0 +1,20 @@
+.dialog{
+    width: 400px;
+    height: 260px;
+    background-color: wheat;
+    margin: 20px auto;
+    position: relative;
+}
+
+.header,.footer{
+    background-color: teal;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.footer{
+    width: 100%;
+    position:absolute;
+    bottom: 0;
+}

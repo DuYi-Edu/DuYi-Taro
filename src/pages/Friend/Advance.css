@@ -1,0 +1,42 @@
+.content{
+    width: 100%;
+    height: 1005%;
+}
+
+.text-content{
+    padding:0 25rpx;
+}
+
+.text-area{
+    width:100%;
+    height: 750rpx;
+    padding:10rpx;
+    background-color:#f3efef;
+}
+.input-content{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    height: 72rpx;
+    align-items: center;
+    border-radius: 10rpx;
+    background-color: #f3efef;
+    padding:10rpx;
+    margin:40rpx 0;
+}
+.btn-func{
+    width:100%;
+    position:absolute;
+    bottom:0;
+    margin:0 auto;
+    align-items: center;
+}
+.btn{
+    width: 400rpx;
+    height: 90rpx;
+    line-height: 90rpx;
+    background-color: #d50310;
+    color:#fff;
+    border-radius: 100rpx;
+    margin-bottom:40rpx;
+}

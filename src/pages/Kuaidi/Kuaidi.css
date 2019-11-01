@@ -1,0 +1,36 @@
+/* pages/index/index.wxss */
+.container{
+    width: 100%;
+  }
+  
+  .page-area{
+    width: 100%;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  .area-bg{
+    background-color: #5681d7; 
+  }
+
+  
+  .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 40rpx;
+    margin: 15rpx 0;
+  }
+  
+  .page-area Input{
+    background: white;
+    width: 60%;
+    height: 50rpx;
+    margin-left: 10rpx;
+    color: black;
+  }
