@@ -1,0 +1,14 @@
+.index{
+    height: 1400rpx;
+    background-color: red;
+}
+
+.fixedBottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50rpx;
+    background-color: aliceblue;
+    color: gray;
+    text-align: center;
+}
