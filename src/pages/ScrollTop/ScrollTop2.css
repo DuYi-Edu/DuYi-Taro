@@ -1,0 +1,29 @@
+/* pages/scrollView/scrollView.wxss */
+.scroll-view1{
+    height: 1000rpx;
+    background: green;
+    font-size:80rpx;
+  }
+  
+  .scroll-view2{
+    height: 1000rpx;
+    background: red;
+    font-size:80rpx;
+  }
+  
+  .gotop{
+    position: fixed;
+    right: 30rpx;
+    bottom: 50rpx;
+    height: 60rpx;
+    width: 100rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: whte;
+    font-size: 21rpx;
+    font-weight: bold;
+    background: wheat;
+  }
