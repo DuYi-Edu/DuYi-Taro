@@ -1,0 +1,19 @@
+.page-section{
+    width:95%;
+    background:white;
+}
+
+.news-list-item{
+    height: 100rpx;
+    margin:10rpx 0;
+}
+
+.news-list-item-title{
+    font-size:5vw;
+    margin:10rpx 0;
+}
+
+.flag{
+    float: right;
+    right:30rpx;
+}

@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding:50rpx 0;
+    box-sizing: border-box;
+}
+.page-section{
+    width: 90%;
+    background: wheat;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+}
+.page-section Button{
+    margin: 10px auto;
+    width: 80%;
+}
+.page-title{
+    font-weight: bold;
+}
+.movable-area{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+.movable-view{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.movable-view Image{
+    width: 100%;
+    height: 100%;
+}
