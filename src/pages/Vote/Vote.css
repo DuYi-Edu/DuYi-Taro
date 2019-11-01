@@ -1,0 +1,56 @@
+page{
+    width: 100%;
+    height: 100%;
+    background-color: #ccc;
+}
+.section{
+    width: 100%;
+    border: 1px solid gray;
+    padding: 20px;
+    background-color: white;
+    margin: 20px 0;
+    box-sizing:border-box
+}
+
+Input{
+    background-color: white;
+}
+
+.choose{
+    height: 80px;
+    line-height: 80px;
+    border-bottom: 1px solid gray;
+}
+
+.img{
+    width:30px;
+    height: 30px;
+    margin-bottom: -5px;
+    margin-right: 5px;
+}
+.tip{
+    color: gray;
+}
+.vote-type{
+    display: flex;
+    margin: 10px 0;
+    height: 80px;
+}
+.select-picker{
+    padding-left: 10px;
+}
+
+.vote-switch{
+    margin-left: 30px;
+}
+
+.big-img{
+    width: 100px;
+    height: 100px;
+    margin: 5px 0 0 10px
+}
+
+.btn{
+    width: 90%;
+    margin: 15px;
+}
