@@ -1,0 +1,14 @@
+.message-view{
+    width:100%;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.text-sty{
+    color:red;
+    font-size:50rpx;
+}
+
+.btn{
+    margin: 10px;
+}
